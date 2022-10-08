@@ -1,10 +1,7 @@
 # Connect 4 in C
 
-This assignment was originally prepared by Prof. Nandigam.
-
-Use this [GitHub Classroom link](https://classroom.github.com/a/mC2Nf2pv) to create a repo for this project.
-
-This video provides an [introduction to Connect 4 and GitHub Classroom](https://youtu.be/nv1R7XPNneM).
+[Javascript implementation](https://github.com/gvsucis-2/c4js-kylesmigelski)
+[Scheme Implementation](https://github.com/gvsucis-2/c4scheme-kylesmigelski)
 
 ## Overview
 
