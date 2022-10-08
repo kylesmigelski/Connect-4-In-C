@@ -1,6 +1,7 @@
 # Connect 4 in C
 
 [Javascript implementation](https://github.com/gvsucis-2/c4js-kylesmigelski)
+
 [Scheme Implementation](https://github.com/gvsucis-2/c4scheme-kylesmigelski)
 
 ## Overview
