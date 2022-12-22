@@ -4,6 +4,10 @@
 
 [Scheme Implementation](https://github.com/gvsucis-2/c4scheme-kylesmigelski)
 
+[Ruby Implementation](https://github.com/kylesmigelski/Connect4-Ruby)
+
+[Kotlin Implementation](https://github.com/kylesmigelski/Connect4-Kotlin)
+
 ## Overview
 
 For this assignment you will implement the game [Connect 4](https://kevinshannon.dev/connect4) in C. 
